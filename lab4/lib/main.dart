@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import './HistoryScreen.dart';
-import './CalculatorScreen.dart';
+import 'HistoryScreen.dart';
+import 'CalculatorScreen.dart';
 
 void main() {
   runApp(const MyApp());
